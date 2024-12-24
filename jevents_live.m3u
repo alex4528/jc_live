@@ -1,11 +1,9 @@
 #EXTM3U
 #playlist by @yuvraj824
-
-#EXTINF:-1 tvg-id="4080965" group-title="Live Events" tvg-logo="",Railways vs Maharashtra
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_241224/tv_master.m3u8
+#Generated at 1735040497
 
 #EXTINF:-1 tvg-id="4079444" group-title="Live Events" tvg-logo="",India Women vs West Indies Women - 2nd ODI
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_241224/tv_master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_241224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Bigg Boss 24 Hrs Channel
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
