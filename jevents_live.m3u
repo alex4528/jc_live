@@ -1,11 +1,13 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735054150
-#Generated at 1735052903
+#Generated at 1735054892
 
 #EXTINF:-1 tvg-id="4079444" group-title="Live Events" tvg-logo="",India Women vs West Indies Women - 2nd ODI
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_241224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Bigg Boss 24 Hrs Channel
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
+
+#EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",Emotional Showdown: Rajath vs. Chaithra
+https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day87/master.m3u8
 
