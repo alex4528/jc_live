@@ -1,7 +1,10 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735140538
+#Generated at 1735141299
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Bigg Boss 24 Hrs Channel
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
+
+#EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",Rajath's Roar: The House in Turmoil
+https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day88/master.m3u8
 
