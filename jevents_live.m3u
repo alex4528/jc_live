@@ -1,12 +1,12 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735289135
+#Generated at 1735290549
 
 #EXTINF:-1 tvg-id="4079445" group-title="Live Events" tvg-logo="",IND-W vs WI-W - 3rd ODI
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_271224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4084478" group-title="Live Events" tvg-logo="",Railways vs Bengal
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_271224/tv_master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_271224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4072614" group-title="Live Events" tvg-logo="",South Africa vs Pakistan - 1st Test - Day 2
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_271224/tv_master.m3u8
