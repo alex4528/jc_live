@@ -1,14 +1,13 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735277496
-#Generated at 1735276140
+#Generated at 1735278110
 
 #EXTINF:-1 tvg-id="4079445" group-title="Live Events" tvg-logo="",IND-W vs WI-W - 3rd ODI
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_271224/tv_master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m5_271224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4084478" group-title="Live Events" tvg-logo="",Railways vs Bengal
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_271224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Bigg Boss 24 Hrs Channel
-https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day03/master.m3u8
 
