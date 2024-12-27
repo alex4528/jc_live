@@ -1,11 +1,10 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735306275
-#Generated at 1735305317
+#Generated at 1735306882
 
 #EXTINF:-1 tvg-id="4025196" group-title="Live Events" tvg-logo="",Mohammedan SC vs Odisha FC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1271224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4072614" group-title="Live Events" tvg-logo="",South Africa vs Pakistan - 1st Test - Day 2
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_271224/tv_master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_271224/tv_master.m3u8
 
