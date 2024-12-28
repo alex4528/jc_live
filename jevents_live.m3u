@@ -1,10 +1,13 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735398712
+#Generated at 1735399641
 
 #EXTINF:-1 tvg-id="4025212" group-title="Live Events" tvg-logo="",Chennaiyin FC vs Bengaluru FC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2281224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4072614" group-title="Live Events" tvg-logo="",South Africa vs Pakistan - 1st Test - Day 3
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_281224/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",New Captaincy Sparks A War!
+https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day91/master.m3u8
 
