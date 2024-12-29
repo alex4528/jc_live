@@ -1,8 +1,10 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735481275
-#Generated at 1735479684
+#Generated at 1735482513
 
 #EXTINF:-1 tvg-id="4025220" group-title="Live Events" tvg-logo="",Jamshedpur FC vs Kerala Blasters FC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1291224/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4077373" group-title="Live Events" tvg-logo="",Motherwell vs Rangers
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_291224/tv_master.m3u8
 
