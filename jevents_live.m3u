@@ -1,10 +1,9 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735543791
-#Generated at 1735536682
+#Generated at 1735544531
 
 #EXTINF:-1 tvg-id="4084756" group-title="Live Events" tvg-logo="",Final - Bengal vs Madhya Pradesh
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_301224/tv_master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_301224/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Dekho Non-Stop Action
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
