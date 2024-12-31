@@ -1,8 +1,13 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1735659784
-#Generated at 1735658894
+#Generated at 1735661401
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Dekho Non-Stop Action
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
+
+#EXTINF:-1 tvg-id="4027311" group-title="Live Events" tvg-logo="",Emergency Task Mei Hua Violence!
+https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_eptv_bbhindi_s18_day87/master.m3u8
+
+#EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",Family > Everything!
+https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day94/master.m3u8
 
