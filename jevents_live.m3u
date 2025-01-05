@@ -1,11 +1,13 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736086081
-#Generated at 1736077292
+#Generated at 1736087309
 
-#EXTINF:-1 tvg-id="4085614" group-title="Live Events" tvg-logo="",Hibernian vs Rangers
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_050125/tv_master.m3u8
+#EXTINF:-1 tvg-id="4085615" group-title="Live Events" tvg-logo="",Motherwell vs Aberdeen
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m2_050125/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4081157" group-title="Live Events" tvg-logo="",Punjab FC vs Kerala Blasters FC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1050125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4072615" group-title="Live Events" tvg-logo="",South Africa vs Pakistan - 2nd Test - Day 3
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_050125/tv_master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m9_050125/tv_master.m3u8
 
