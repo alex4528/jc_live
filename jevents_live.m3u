@@ -1,9 +1,6 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736421908
-
-#EXTINF:-1 tvg-id="4089521" group-title="Live Events" tvg-logo="",Gujarat vs Tamil Nadu - Day 3
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_090125/tv_master.m3u8
+#Generated at 1736422887
 
 #EXTINF:-1 tvg-id="4089990" group-title="Live Events" tvg-logo="",Haryana vs Bengal
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_090125/tv_master.m3u8
@@ -15,5 +12,5 @@ https://prod-ent-live-cf.jiocinema.com/hls/live/2105484/hd_akamai_merged_avc_eng
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_090125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Rajat’s Flip Game Exposed?
-https://prod-ent-live-gm.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
+https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
 
