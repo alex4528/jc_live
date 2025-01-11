@@ -1,13 +1,16 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736599720
+#Generated at 1736601198
 
 #EXTINF:-1 tvg-id="4081181" group-title="Live Events" tvg-logo="",Bengaluru FC vs Mohammedan SC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1110125/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4082611" group-title="Live Events" tvg-logo="",Mohun Bagan Super Giant vs East Bengal FC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2110125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4091139" group-title="Live Events" tvg-logo="",Roadies XX: The Grand Premiere
 https://prod-ent-live-cf.jiocinema.com/hls/live/2106330/hd_akamai_merged_avc_eng_roadies_weekendepisode_110125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4085617" group-title="Live Events" tvg-logo="",Ross County vs Celtic
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_110125/tv_master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_110125/tv_master.m3u8
 
