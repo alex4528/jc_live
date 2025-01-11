@@ -1,9 +1,12 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736608075
+#Generated at 1736609239
 
 #EXTINF:-1 tvg-id="4082611" group-title="Live Events" tvg-logo="",Mohun Bagan Super Giant vs East Bengal FC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2110125/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4027311" group-title="Live Events" tvg-logo="",Vivian Par Laga Selfish Hone Ka Aarop!
+https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_eptv_bbhindi_s18_day98/master.m3u8
 
 #EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",Grand Pass or Gate Pass: The Ultimate Decision!
 https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day105/master.m3u8
