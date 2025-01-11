@@ -1,10 +1,10 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736575883
+#Generated at 1736577283
 
 #EXTINF:-1 tvg-id="4090057" group-title="Live Events" tvg-logo="",QF: Karnataka vs Baroda
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110125/tv_master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4090056" group-title="Live Events" tvg-logo="",QF: Maharashtra vs Punjab
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_110125/tv_master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_110125/tv_master.m3u8
 
