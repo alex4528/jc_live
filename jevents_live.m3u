@@ -1,6 +1,9 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736591482
+#Generated at 1736592111
+
+#EXTINF:-1 tvg-id="4081181" group-title="Live Events" tvg-logo="",Bengaluru FC vs Mohammedan SC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1110125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4090057" group-title="Live Events" tvg-logo="",QF: Karnataka vs Baroda
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110125/tv_master.m3u8
