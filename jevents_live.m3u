@@ -1,12 +1,12 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736696501
+#Generated at 1736698135
 
 #EXTINF:-1 tvg-id="4082371" group-title="Live Events" tvg-logo="",Mumbai City FC vs Jamshedpur FC
 https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1120125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4085618" group-title="Live Events" tvg-logo="",Aberdeen vs Hearts
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_120125/tv_master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_120125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Punjab Kings ke Superstars in the House
 https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
