@@ -1,12 +1,12 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736867336
+#Generated at 1736868539
 
 #EXTINF:-1 tvg-id="4082379" group-title="Live Events" tvg-logo="",NorthEast United FC vs FC Goa
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1140125/tv_master.m3u8
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1140125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4030232" group-title="Live Events" tvg-logo="",Eisha's Workout Style
-https://prod-ent-live-cf.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2101885/uhd_akamai_atv_avc_24x7_bbhindi_s18_day04/master.m3u8
 
 #EXTINF:-1 tvg-id="4025276" group-title="Live Events" tvg-logo="",Mid-Week Elimination Alert!
 https://prod-ent-live-cf.jiocinema.com/hls/live/2106328/fhd_akamai_atv_avc_eptv_bbkannada_day108/master.m3u8
