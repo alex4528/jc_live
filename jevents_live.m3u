@@ -1,6 +1,9 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1736945441
+#Generated at 1736946924
+
+#EXTINF:-1 tvg-id="4082387" group-title="Live Events" tvg-logo="",Mohammedan SC vs Chennaiyin FC
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1150125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4093895" group-title="Live Events" tvg-logo="",SF: Haryana vs Karnataka
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_150125/tv_master.m3u8
