@@ -1,9 +1,9 @@
 #EXTM3U
 #playlist by @yuvraj824
-#Generated at 1737033326
+#Generated at 1737034227
 
 #EXTINF:-1 tvg-id="4082403" group-title="Live Events" tvg-logo="",Punjab FC vs Mumbai City FC
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1160125/tv_master.m3u8
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1160125/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4093896" group-title="Live Events" tvg-logo="",SF: Vidarbha vs Maharashtra
 https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_160125/tv_master.m3u8
