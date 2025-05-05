@@ -2,80 +2,67 @@
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL ENGLISH
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_ENG_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL ENGLISH
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL HINDI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_HIN_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL HINDI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL GUJARATI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_Guj_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL GUJARATI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Guj_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL MARATHI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_MAR_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL MARATHI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_MAR_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL PUNJABI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_Punj_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL PUNJABI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Punj_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL HARYANVI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_HAR_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL HARYANVI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HAR_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL BHOJPURI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_Bhoj_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL BHOJPURI
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL TAMIL
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_TAM_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL TAMIL
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TAM_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL TELUGU
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_TEL_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL TELUGU
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TEL_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL KANNADA
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_KAN_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL All Language",IPL KANNADA
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_KAN_IDC_CTV/Fallback/index2.m3u8
+
+# Camera Views
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL MALAYALAM
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_Mal_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL Camera Views",SpiderCam
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_SCAM_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL All Language" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL BENGALI
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_BEN_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL Camera Views",HeroCam
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HCAM_IDC_CTV/Fallback/index2.m3u8
 
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 #EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL Multi Cam" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL BATTER CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_CAM01_IDC_MOB/Fallback/index2.m3u8
-
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-#EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL Multi Cam" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL HERO CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_CAM02_IDC_MOB/Fallback/index2.m3u8
-
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-#EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL Multi Cam" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL FIELD VIEW CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_CAM04_IDC_MOB/Fallback/index2.m3u8
-
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-#EXTHTTP:{"cookie":"hdntl=exp=1746536870~acl=%2f*~id=f87e16fb908dafa95318f305a7f279ac~data=hdntl~hmac=a88dacb6bf4b0bd8853b12bd095d026ea11c3fa9ef37dd2580e111ef466051b0"}
-#EXTINF:-1 group-title="IPL Multi Cam" tvg-logo="https://media.insider.in/image/upload/c_crop,g_custom/v1740646020/aa2v4pr19c5hfiafqglu.png",IPL STUMP CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_CAM03_IDC_MOB/Fallback/index2.m3u8
+#EXTINF:-1 group-title="IPL Camera Views",Dugout Feed
+https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_DUG_IDC_CTV/Fallback/index2.m3u8
